@@ -55,15 +55,14 @@
 
 * On Images:
 
-
 ![image](https://github.com/Gooda97/Head-Pose-Estimation-Using-ML-And-Mediapipe/blob/main/results/frame11.jpg)
 
 * On Streaming video:
 
-![video](https://github.com/Gooda97/Head-Pose-Estimation-Using-ML-And-Mediapipe/blob/main/results/2023_02_20_00_39_IMG_0454.MOV)
+https://user-images.githubusercontent.com/58276039/219983521-f0b42a7a-2685-4a10-99cb-a1799836989d.MOV
 
 * On external Video:
-
-![video](https://github.com/Gooda97/Head-Pose-Estimation-Using-ML-And-Mediapipe/blob/main/results/new%20video.mp4
-)
         
+https://user-images.githubusercontent.com/58276039/219983489-ee009ee5-aaf6-4948-a28c-630790377252.mp4
+
+

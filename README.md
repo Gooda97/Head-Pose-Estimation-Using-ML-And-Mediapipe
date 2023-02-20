@@ -50,6 +50,9 @@
 * stream_predict:
 
         The same as predict but it works with tha labtop or pc camera stream.
+    
+ * video_predict:
+        Takes a path of a video and saves a processed version of the video named 'new video'.
 
 ## Results
 
